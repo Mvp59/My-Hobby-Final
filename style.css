@@ -1,0 +1,51 @@
+body
+{
+    text-align: center;
+        background:linear-gradient( #E1BEE7 0%,#90CAF9 100%);
+        cursor: crosshair;
+}
+
+h1{
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 20px;
+}
+
+#bio{
+    padding: 20px;
+    font-size: :18;
+    text-align:center;
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: crosshair;
+    color: aqua;
+}
+
+.a{
+    list-style: 
+}
+
+.resources{
+       list-style:initial
+    font-family: cursive;
+      bottom: 120px;
+    cursor: crosshair;
+    color: aqua;
+}
+
+.img{
+   width: 80px;
+    height: 80px;
+    background-color: skyblue;
+}
+    
+.scaled{
+    transform: scale(2,0.5); /* Equal to scaleX(2) scaleY(0.5) */
+      transform-origin: left;
+  background-color: pink;
+}
